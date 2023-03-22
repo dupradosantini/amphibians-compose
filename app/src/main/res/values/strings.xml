@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Amphibians</string>
+    <string name="top_bar_title">Que Sapão</string>
+    <string name="text_choose_critter">Escolha um bichinho!</string>
+    <string name="frog_filler">Frog</string>
+    <string name="filler_salamander">Salamander</string>
+    <string name="filler_other_frog">OtherFrog</string>
+    <string name="filler_axolotl">Axolotl</string>
+    <string name="filler_perereca">Perereca</string>
+    <string name="filler_ran">Rã</string>
+</resources>
